@@ -1,0 +1,13 @@
+name = "gcs"
+description = "Generic lexer"
+version = "0.1.0-dev"
+licenses= "GPL-3.0-or-later"
+
+authors = ["Fraser Wilson"]
+maintainers = ["Fraser Wilson <fraser@thewhitelion.eu>"]
+maintainers-logins = ["blancolioni"]
+tags = ["parser"]
+website = "https://github.com/blancolioni/gcs"
+
+[[depends-on]]
+wl_lib = "~0.1.0-dev"
